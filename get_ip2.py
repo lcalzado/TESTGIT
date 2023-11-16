@@ -44,5 +44,6 @@ cantidad_ips = int(ip2) - int(ip1) + 1
 cantidad_ips2 = int(ip4) - int(ip3) + 1
 cantidad_ips3 = int(ip6) - int(ip5) + 1
 
+print(cantidad_ips)
 print(cantidad_ips2)
 print(cantidad_ips3)
